@@ -1,3 +1,3 @@
-# git_test
-My first GitHub repo
-Hello Odin!
+# odin-recipes
+
+This site shows some several odin-recipes
